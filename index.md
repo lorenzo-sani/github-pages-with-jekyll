@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Gatti di marmo 2
 
-I'm glad you are here. I plan to talk about ...
+Per maggiori informazioni vai a [Gatti di Marmo](https://lorenzo-sani.github.io/lorenz_webpage/).
